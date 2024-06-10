@@ -5,7 +5,7 @@ public class PasswordProtectedUI {
     private JFrame frame;
     private JPasswordField passwordField;
     private JButton authenticateButton;
-    private final String correctPassword = "SRNMNCbca9108";
+    private final String correctPassword = "Faizan9108";
 
     public PasswordProtectedUI() {
         frame = new JFrame("Password Protected Interface");
